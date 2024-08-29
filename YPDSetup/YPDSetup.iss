@@ -27,6 +27,7 @@ UninstallDisplayIcon=..\YoutubePlaylistDownloader\finalIcon.ico
 Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "hebrew"; MessagesFile: "compiler:Languages\Hebrew.isl"
 Name: "chinese"; MessagesFile: "ChineseSimplified.isl"
+Name: "italian"; MessagesFile: "Italian.isl"
 
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}";
